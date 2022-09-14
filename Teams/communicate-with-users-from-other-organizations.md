@@ -81,7 +81,7 @@ The following tables show the differences between using external access (federat
 | Call someone in another organization | Yes | Yes |
 | See if someone from another organization is available for call or chat | Yes | Yes<sup>1</sup> |
 | Search for people in other organizations | Yes<sup>2</sup> | No |
-| Share files | No | Yes |
+| Share files | No<sup>6</sup> | Yes |
 | See the out-of-office message of someone in another organization | No | Yes |
 | Block someone in another organization  | No | Yes |
 | Use @mentions | Yes<sup>3</sup> | Yes |
@@ -113,6 +113,7 @@ The following tables show the differences between using external access (federat
 <sup>3</sup> Supported for 1:1 chat for Teams Only to Teams Only users from two different organizations. <br>
 <sup>4</sup> By default, external participants can't see the phone numbers of dialed-in participants. If you want to maintain the privacy of these phone numbers, select **Tones** for **Entry/exit announcement type** (this prevents the numbers from being read out by Teams). To learn more, read [Turn on or off entry and exit announcements for meetings in Microsoft Teams](turn-on-or-off-entry-and-exit-announcements-for-meetings-in-teams.md). <br>
 <sup>5</sup> Allowed by default, but can be turned off by the Teams admin
+<sup>6</sup> If Files sharing on OneDraive and Sharepoint adimis set to "Anyone", read [Turn external sharing on or off in Microsoft Teams](turn-external-sharing-on-or-off.md). <br>
 
 ## Related topics
 
